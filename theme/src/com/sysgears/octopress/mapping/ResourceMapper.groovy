@@ -113,7 +113,7 @@ class ResourceMapper {
                 case '/':
                     applyPagination(posts, site.posts_per_blog_page, page.url)
                     break
-                case '/archives/':
+                case '/archive/':
                     applyPagination(posts, site.posts_per_archive_page, page.url)
                     break
                 case '/authors/':
