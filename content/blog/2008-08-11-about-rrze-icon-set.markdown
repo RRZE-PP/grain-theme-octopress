@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the RRZE Icon Set"
-date: "2008-10-01 10:00"
+date: "2008-08-11 10:15"
 author: RRZE P&P
 categories: [RRZE Icon Set, tango]
 comments: false                    # disables/enables comments section for the post
@@ -9,17 +9,13 @@ published: true                   # defines whether to render the post in 'gener
 sharing: true                     # (optional) disables/enables sharing options for the post, 'true' is by default
 asides: [ ]              # (optional) asides to include into the post page, all asides are included by default
 ---
+<p>The Regional Computing Centre Erlangen (<acronym title="German abbriviation for Regional Computing Centre">RRZE</acronym>)
+  provides an icon set especially created for IT topics. The set is free to use under the <a class="externlink" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative-Commons-Licence</a>.
+</p>
 
 <!--more-->
 
-<div id="content">
-<div class="section">
 <h2>Introduction to the RRZE Icon Sets</h2>
-<p><strong>The Regional Computing Centre Erlangen (<acronym title="German abbriviation for Regional Computing Centre">RRZE</acronym>)
-  provides
-  an icon set especially created for IT topics. The set is free to use
-  under the <a class="externlink" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative-Commons-Licence</a>.</strong>
-</p>
 
 <p> This icon collection includes, in particular, the topic </p>
 
@@ -58,9 +54,3 @@ as well as ".<acronym title="portable networks graphics">png</acronym>"
 in different resolutions. They can be downloaded individually from the <a href="gallery.html">gallery</a> or as a complete
 icon-set from the <a href="download.html">download</a>
 page. </p>
-
-<p> </p>
-
-</div>
-
-</div>

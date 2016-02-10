@@ -3,7 +3,7 @@ layout: post
 title: "New: the monocrom icon set!"
 date: "2013-08-13 10:00"
 author: RRZE P&P
-categories: [RRZE Icon Set, monocrom]
+categories: [RRZE Icon Set, monocrom, release]
 comments: false                    # disables/enables comments section for the post
 published: true                   # defines whether to render the post in 'generate' mode
 sharing: true                     # (optional) disables/enables sharing options for the post, 'true' is by default
